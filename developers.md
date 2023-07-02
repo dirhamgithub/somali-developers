@@ -1,6 +1,7 @@
 # Developers / Contributers
 
 - [Somcoders](https://github.com/somcoders)
+- [Adbulakhir](https://github.com/dirhamgithub)
 - [moha-sak](https://github.com/moha-sak)
 - [abdifatah](https://github.com/abdifatahz)
 - [mohamedabdiahmed](https://github.com/mohamedabdiahmed)
